@@ -1,0 +1,30 @@
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.exe
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\ref\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.pdb
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\ref\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.pdb
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\ref\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\bin\Debug\net5.0\Exercicio7.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\ref\Exercicio7.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\3. Estrutura repetitiva\2. Para\Exercicio7\Exercicio7\obj\Debug\net5.0\Exercicio7.genruntimeconfig.cache

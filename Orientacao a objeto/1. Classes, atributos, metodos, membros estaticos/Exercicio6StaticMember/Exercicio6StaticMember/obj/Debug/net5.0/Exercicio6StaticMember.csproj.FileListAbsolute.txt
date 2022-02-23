@@ -1,0 +1,32 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\ref\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\ref\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\ref\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\bin\Debug\net5.0\Exercicio6StaticMember.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\ref\Exercicio6StaticMember.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\1. Primeiros exercicios\Exercicio6StaticMember\Exercicio6StaticMember\obj\Debug\net5.0\Exercicio6StaticMember.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\ref\Exercicio4.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\bin\Debug\net5.0\Exercicio4.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\ref\Exercicio4.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\1. Primeiros exercicios\Exercicio4\Exercicio4\obj\Debug\net5.0\Exercicio4.genruntimeconfig.cache

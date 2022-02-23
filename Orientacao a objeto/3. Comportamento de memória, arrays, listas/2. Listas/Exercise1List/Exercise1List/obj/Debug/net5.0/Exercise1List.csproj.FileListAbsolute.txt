@@ -1,0 +1,32 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\ref\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\ref\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\3. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\ref\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\bin\Debug\net5.0\Exercise1List.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\ref\Exercise1List.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\2. Listas\Exercise1List\Exercise1List\obj\Debug\net5.0\Exercise1List.genruntimeconfig.cache

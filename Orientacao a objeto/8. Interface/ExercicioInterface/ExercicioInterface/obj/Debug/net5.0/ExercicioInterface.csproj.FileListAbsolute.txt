@@ -1,0 +1,32 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ref\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ref\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\9. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ref\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ref\ExercicioInterface.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\8. Interface\ExercicioInterface\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.genruntimeconfig.cache

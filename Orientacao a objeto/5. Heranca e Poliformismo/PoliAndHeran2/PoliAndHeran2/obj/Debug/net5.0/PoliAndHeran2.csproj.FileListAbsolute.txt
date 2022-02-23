@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\PoliAndHeran2.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\PoliAndHeran2.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\PoliAndHeran2.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\PoliAndHeran2.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\PoliAndHeran2.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\ref\PoliAndHeran2.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\bin\Debug\net5.0\PoliAndHeran2.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\ref\PoliAndHeran2.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\PoliAndHeran2\PoliAndHeran2\obj\Debug\net5.0\PoliAndHeran2.genruntimeconfig.cache

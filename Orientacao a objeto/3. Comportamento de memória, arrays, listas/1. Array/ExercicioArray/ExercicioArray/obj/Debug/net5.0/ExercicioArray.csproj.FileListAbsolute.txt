@@ -1,0 +1,32 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ref\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ref\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\2. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ref\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\bin\Debug\net5.0\ExercicioArray.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ref\ExercicioArray.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\3. Comportamento de memória, arrays, listas\1. Array\ExercicioArray\ExercicioArray\obj\Debug\net5.0\ExercicioArray.genruntimeconfig.cache

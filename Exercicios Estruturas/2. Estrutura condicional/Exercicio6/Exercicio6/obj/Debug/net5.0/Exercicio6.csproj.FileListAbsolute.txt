@@ -1,0 +1,30 @@
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.exe
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\ref\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.pdb
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\ref\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.pdb
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\ref\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\bin\Debug\net5.0\Exercicio6.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\ref\Exercicio6.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Exercicios Estruturas\2. Estrutura condicional\Exercicio6\Exercicio6\obj\Debug\net5.0\Exercicio6.genruntimeconfig.cache

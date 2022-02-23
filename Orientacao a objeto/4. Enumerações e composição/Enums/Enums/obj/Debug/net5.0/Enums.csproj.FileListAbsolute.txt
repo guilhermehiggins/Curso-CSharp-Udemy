@@ -1,0 +1,32 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\5. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.exe
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Code\WS - VisualStudio\Curso-C#-Udemy\Orientação a objeto\4. Enumerações e composição\Enums\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache

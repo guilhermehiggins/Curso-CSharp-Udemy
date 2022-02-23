@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+C:\Code\WS - VisualStudio\Curso C#\Exercicio Estruturas\1. Estruturas sequenciais\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache

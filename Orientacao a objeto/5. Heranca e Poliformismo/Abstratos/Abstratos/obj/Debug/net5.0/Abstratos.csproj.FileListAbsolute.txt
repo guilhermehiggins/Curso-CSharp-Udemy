@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\Abstratos.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\Abstratos.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\Abstratos.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\Abstratos.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\Abstratos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\ref\Abstratos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\bin\Debug\net5.0\Abstratos.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\ref\Abstratos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\6. Poliformismo\Abstratos\Abstratos\obj\Debug\net5.0\Abstratos.genruntimeconfig.cache

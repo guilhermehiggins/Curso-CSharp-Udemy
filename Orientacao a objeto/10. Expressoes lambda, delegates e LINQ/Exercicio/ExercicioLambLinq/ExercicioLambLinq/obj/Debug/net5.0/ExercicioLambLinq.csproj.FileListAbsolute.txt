@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ExercicioLambLinq.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ExercicioLambLinq.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ExercicioLambLinq.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ExercicioLambLinq.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ExercicioLambLinq.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ref\ExercicioLambLinq.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\bin\Debug\net5.0\ExercicioLambLinq.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ref\ExercicioLambLinq.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\11. Lambda, delegates e LINQ\Exercicio\ExercicioLambLinq\ExercicioLambLinq\obj\Debug\net5.0\ExercicioLambLinq.genruntimeconfig.cache

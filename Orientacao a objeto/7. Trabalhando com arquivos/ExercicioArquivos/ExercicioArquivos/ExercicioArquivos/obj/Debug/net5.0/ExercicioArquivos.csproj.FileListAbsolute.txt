@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ExercicioArquivos.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ExercicioArquivos.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ExercicioArquivos.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ExercicioArquivos.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ExercicioArquivos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ref\ExercicioArquivos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net5.0\ExercicioArquivos.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ref\ExercicioArquivos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\8. Uso de arquivos\ExercicioArquivos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net5.0\ExercicioArquivos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ExerciciosConjuntos.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ExerciciosConjuntos.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ExerciciosConjuntos.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ExerciciosConjuntos.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ExerciciosConjuntos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ref\ExerciciosConjuntos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\bin\Debug\net5.0\ExerciciosConjuntos.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ref\ExerciciosConjuntos.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\10. Generics, Set, Dictionary\ExerciciosConjuntos\ExerciciosConjuntos\obj\Debug\net5.0\ExerciciosConjuntos.genruntimeconfig.cache

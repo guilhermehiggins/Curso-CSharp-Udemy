@@ -1,0 +1,16 @@
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\Exceções.exe
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\Exceções.deps.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\Exceções.runtimeconfig.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\Exceções.runtimeconfig.dev.json
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\Exceções.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\ref\Exceções.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\bin\Debug\net5.0\Exceções.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.csproj.AssemblyReference.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.AssemblyInfoInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.AssemblyInfo.cs
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.csproj.CoreCompileInputs.cache
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\ref\Exceções.dll
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.pdb
+C:\Code\WS - VisualStudio\Curso C#\Orientação a objeto\7. Exceções\Exceções\Exceções\obj\Debug\net5.0\Exceções.genruntimeconfig.cache
